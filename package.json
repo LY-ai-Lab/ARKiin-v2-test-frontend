@@ -1,0 +1,17 @@
+{
+  "name": "arkiin-v2-test-frontend",
+  "version": "1.0.0",
+  "description": "Production-style 6-step test frontend for ARKiin v2.0 backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
